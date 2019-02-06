@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WorkEditInfo docVersion="11">
+ <WorkList washMixerState="true" cleanType="CleanAndRinse" washCapillaryState="true" acquisitionOrder="Row" quickCleanFrequency="96" limitConcentration="500" assayType="InCyte" doMixing="true" mixPerWell="true">
+  <Tray maxCol="12" maxTube="16" maxRow="8">
+   <Well timeToAcquire="600" originalVolume="0.5" row="-1" sampleID="T06" eventsToAcquire="5000" replicate="1" col="5" dilutionFactor="1" mixSpeed="High" autoSaveFCS="true" mixTime="7"/>
+   <Well timeToAcquire="600" originalVolume="0.5" row="-1" sampleID="T07" eventsToAcquire="5000" replicate="1" col="6" dilutionFactor="1" mixSpeed="High" autoSaveFCS="true" mixTime="7"/>
+   <Well timeToAcquire="600" originalVolume="0.5" row="-1" sampleID="T08" eventsToAcquire="5000" replicate="1" col="7" dilutionFactor="1" mixSpeed="High" autoSaveFCS="true" mixTime="7"/>
+  </Tray>
+ </WorkList>
+</WorkEditInfo>
