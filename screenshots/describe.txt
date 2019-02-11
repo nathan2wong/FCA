@@ -1,0 +1,49 @@
+{Control APC-A:  count     12519.000000
+mean         77.530475
+std        2348.691331
+min         -42.000000
+25%          26.039999
+50%          44.520000
+75%          67.199997
+max      262143.000000
+Name: APC-A, dtype: float64}{Experimental APC-A: count    10481.000000
+mean       364.115664
+std        623.851606
+min        -42.000000
+25%         47.039997
+50%        121.799995
+75%        393.119995
+max      11290.439453
+Name: APC-A, dtype: float64}{Control FITC-A:  count    12519.000000
+mean        82.904015
+std         94.310177
+min        -32.549999
+25%         51.150002
+50%         72.540001
+75%         99.510002
+max       4583.970215
+Name: FITC-A, dtype: float64}{Experimental FITC-A: count     10481.000000
+mean       1160.511043
+std        5143.847187
+min         -16.740000
+25%          55.799999
+50%          90.209999
+75%         233.430008
+max      262143.000000
+Name: FITC-A, dtype: float64}{Control HV 450-A:  count    12519.000000
+mean        45.760919
+std        208.435041
+min        -33.599998
+25%         22.080000
+50%         37.439999
+75%         52.799999
+max      16381.439453
+Name: HV 450-A, dtype: float64}{Experimental HV 450-A: count    10481.000000
+mean       113.890748
+std        509.879816
+min        -27.840000
+25%         42.239998
+50%         88.320000
+75%        133.440002
+max      43521.597656
+Name: HV 450-A, dtype: float64}
