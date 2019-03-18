@@ -1,0 +1,16 @@
+Licenses (Creative Commons & MIT Compatible):
+Advanced Analysis – Light bootstrap theme by Creative Tim: MIT License https://github.com/timcreative/freebies/blob/master/LICENSE.md
+Lens by HTML5UP: Creative Commons 3.0
+https://html5up.net/license
+
+Python (MIT & BSD3 Compatible):
+NumPy: https://github.com/numpy/numpy/blob/master/LICENSE.txt
+SciPy: https://scipy.org/scipylib/license.html
+Pandas: https://github.com/pandas-dev/pandas/blob/master/LICENSE
+Matplotlib: https://matplotlib.org/users/license.html
+Bokeh: https://github.com/bokeh/bokeh/blob/master/LICENSE.txt
+Holoviews: https://github.com/pyviz/holoviews/blob/master/LICENSE.txt
+Flask: http://flask.pocoo.org/docs/1.0/license/
+SQLAlchemy: https://docs.sqlalchemy.org/en/latest/copyright.html
+Cytoflow: https://github.com/bpteague/cytoflow/blob/master/LICENSE.txt
+FlowUtils: https://github.com/whitews/FlowUtils/blob/master/LICENSE
